@@ -18,25 +18,25 @@ To propose a standard recommendation:
 
 - create a ticket to start a discussion on Github, or
 
-- start a conversation on the [mailing list][].
+- start a conversation on the [mailing list][https://groups.google.com/forum/#!forum/early-saints-interoperability-group].
 
-[mailing list]: http://example.org
+[mailing list]: https://groups.google.com/forum/#!forum/early-saints-interoperability-group
 
 ## Requesting Membership
 
 You do not need to be a voting member to participate in discussion on
-the [mailing list][].
+the [mailing list][https://groups.google.com/forum/#!forum/early-saints-interoperability-group].
 
-To become a voting member, you must send an email to the [mailing list][].
+To become a voting member, you must send an email to the [mailing list][https://groups.google.com/forum/#!forum/early-saints-interoperability-group].
 
 - The subject line should read: `Membership Request: {$your_name}`
 
 - The body should include your name, the name of and link to the project
   you represent
-  
+
 - Current members will vote on your request and may ask for additional
   details about your project
 
 ## Voting Members
 
-Current voting members are: (names here?)
+Current voting members are to be determined.
