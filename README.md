@@ -14,11 +14,11 @@ databases.
 
 To propose a standard recommendation:
 
-- fork this repository, create a branch, checkout that branch,
+- [fork this repository, create a branch, checkout that branch,
   add the recommendation in `proposed/`, push the branch to
-  Github, and send the pull request, or
+  Github, and send the pull request](https://guides.github.com/introduction/flow/), or
 
-- create a ticket to start a discussion on Github, or
+- [create an issue](https://guides.github.com/features/issues/) to start a discussion on Github, or
 
 - start a conversation on the [mailing list](https://groups.google.com/forum/#!forum/early-saints-interoperability-group).
 
