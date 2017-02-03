@@ -1,0 +1,62 @@
+{
+    "id": "000001-Bidamon-Emma-Hale-Smith",
+    "locale": "en_US",
+    "names": [
+        {
+            "full": "Emma Hale Smith Bidamon",
+            "nodes": {
+                "last": "Hale",
+                "first": "Emma",
+                "married": ["Smith", "Bidamon"]
+            },
+            "status": "curated",
+            "change": {
+                "cause": "marriage",
+                "order": 3
+            }
+        },
+        {
+            "full": "Emma Hale Smith",
+            "nodes": {
+                "last": "Hale",
+                "first": "Emma",
+                "married": "Smith"
+            },
+            "status": "alternate",
+            "change": {
+                "cause": "marriage",
+                "order": 2
+            }
+        },
+        {
+            "full": "Emma Hale",
+            "nodes": {
+                "last": "Hale",
+                "first": "Emma"
+            },
+            "status": "birth",
+            "change": {
+                "cause": "birth",
+                "order": 1
+            }
+        }
+    ],
+    "birth": "1804-07-10T00:00:00-04:00",
+    "death": "1879-04-30T00:00:00-06:00",
+    "apis": [
+        {
+            "uri": "https://familysearch.org/ark:/61903/1:1:QVV3-PY29",
+            "title": "FamilySearch.org"
+        },
+        {
+            "uri": "http://www.josephsmithpapers.org/person/emma-hale-smith",
+            "title": "JosephSmithPapers.org"
+        }
+    ],
+    "issue": {
+        "creator": "David Golding",
+        "address": "https://davidgolding.com",
+        "created": "2017-02-03T14:30-07:00",
+        "modified": "2017-02-03T14:30-07:00"
+    }
+}
